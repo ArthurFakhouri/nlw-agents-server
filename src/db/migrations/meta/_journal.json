@@ -8,6 +8,13 @@
       "when": 1751982542792,
       "tag": "0000_sweet_lionheart",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752017960764,
+      "tag": "0001_unknown_banshee",
+      "breakpoints": true
     }
   ]
 }
