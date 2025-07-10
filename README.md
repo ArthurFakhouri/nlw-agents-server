@@ -49,12 +49,12 @@ Vá para a pasta em que você clonou o projeto, abra o terminal e execute os com
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-Servidor:
 - [<img alt="" src="https://nodejs.org/favicon.ico" width="16px" /> Node](https://nodejs.org)
 - [<img alt="" src="https://fastify.dev/img/favicon.ico" width="16px" /> Fastify](https://fastify.dev/)
 - [<img alt="" src="https://biomejs.dev/img/favicon.svg" width="16px" /> Biome](https://biomejs.dev)
 - [<img alt="" src="https://www.docker.com/favicon.ico" width="16px" /> Docker](https://www.docker.com/)
 - [<img alt="" src="https://orm.drizzle.team/favicon.ico" width="16px" /> Drizzle](https://orm.drizzle.team/)
+- [<img alt="" src="https://www.postgresql.org/favicon.ico" width="16px" /> PostgreSQL](https://www.postgresql.org/)
 - [<img alt="" src="https://zod.dev/icon.png?39fe259ddd7f4224" width="16px" /> Zod](https://zod.dev/)
 - [<img alt="" src="https://www.gstatic.com/lamda/images/gemini_favicon_f069958c85030456e93de685481c559f160ea06b.png" width="16px" /> Gemini](https://gemini.google.com/app?hl=pt-BR)
 
