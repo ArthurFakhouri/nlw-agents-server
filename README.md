@@ -1,5 +1,5 @@
 ### 🌐 PT-BR
-#### [EN-US](https://github.com/ArthurFakhouri/Brev.ly/blob/main/READMEEN.md)
+#### [EN-US](https://github.com/ArthurFakhouri/nlw-agents-server/blob/main/READMEEN.md)
 
 <h4 align="center"> 
 	:heavy_check_mark: 🚀 NLW-Agents 🚀 :heavy_check_mark:
